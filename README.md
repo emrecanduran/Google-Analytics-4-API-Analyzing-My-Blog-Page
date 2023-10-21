@@ -6,6 +6,6 @@ In this repository, I performed an analysis of my blog page data from a Google A
 
 By adjusting dimensions and, metrics or creating new ones a wider range of analyses can be conducted. Individuals familiar with GA4 reports can similarly perform analyses to a certain extent. 
 
-Dimensions & metrics documentation: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema 
+API Dimensions & Metrics: https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema 
 
 API Quickstart: https://developers.google.com/analytics/devguides/reporting/data/v1/quickstart-client-libraries
